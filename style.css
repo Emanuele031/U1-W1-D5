@@ -1,0 +1,120 @@
+
+/* Your s
+tyles here */
+body{
+    width: 450px;
+    height: 500px;
+    text-align: center;
+}
+
+header{
+    background-color: black;
+    margin-left: 0;
+    margin-right: 0;
+    text-align: center;
+    overflow-x: hidden;
+}
+
+#Logo{
+margin-top: 1em;
+margin-bottom: 1em;
+    width:45% ;
+    height:auto ;
+    
+}
+
+#sfondo{
+    
+    width: 130%;
+    height:auto;
+    background-image: url(../images/banner.jpg);
+   
+    
+}
+
+.text-image{
+    background-image: url(../images/banner.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+   
+#container{
+    
+    display: inline-block;
+}
+
+.text-image h1{
+    color: #25a2c3;
+    font-family: "Montserrat", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+    text-align: center;
+    font-size: 2em;
+padding: 1.4em;
+padding-bottom: 0.5em;
+}
+
+
+.text-image p{
+    text-align: center;
+    font-size: 1.1em;
+    margin-left: 6em;
+    margin-right: 6em;
+
+
+}
+
+#button{
+    background-color:#f04c2f;
+    color: white;
+    margin: 0.5em;
+    border:#f04c2f;
+    font-family: "Montserrat", system-ui;
+  font-weight: 700;
+  padding-bottom: 0.5em;
+}
+
+h1{
+    background-size: cover;
+    background-position: center;
+    color: #25a2c3;
+    font-family: "Montserrat", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+    text-align: center;
+    font-size: 1em;
+    margin-top: 1.8em;
+
+}
+
+.p1{
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+   
+    width: 100%;
+    height: auto;
+    
+}
+
+#article{
+    background-color: #EE2200;
+    margin-top: 2em;
+    height: 65vh;
+}
+
+#image1{
+    width: 450%;
+  
+}
+
+#immagine1{
+    border-radius: 50%;
+    width: 100%;
+    height: auto;
+}
