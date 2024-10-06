@@ -1,0 +1,210 @@
+/* Your s
+tyles here */
+body {
+  width: 450px;
+  height: 500px;
+  text-align: center;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+header {
+  background-color: black;
+  margin-left: 0;
+  margin-right: 0;
+  text-align: center;
+  overflow-x: hidden;
+}
+
+#Logo {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  width: 30%;
+  padding: 6%;
+  height: auto;
+}
+
+#sfondo {
+  width: 130%;
+  height: auto;
+  background-image: url(../images/banner.jpg);
+}
+
+.text-image {
+  background-image: url(../images/banner.jpg);
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: auto;
+  text-align: center;
+}
+
+#container {
+  display: inline-block;
+  
+}
+
+.text-image h1 {
+  color: #25a2c3;
+  font-family: "Montserrat", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  text-align: center;
+  font-size: 2em;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+  padding-bottom: 0.5em;
+  padding-top: 1.4em;
+  margin-top: 0;
+}
+
+.text-image p {
+  color: #393d41;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  text-align: center;
+  font-size: 1.2rem;
+  line-height: 1.65;
+  margin-left: 3em;
+  margin-right: 3em;
+}
+
+#button {
+  background-color: #f04c2f;
+  color: white;
+  margin: 0.5em;
+  border: #f04c2f;
+  font-family: "Montserrat", system-ui;
+  font-weight: 700;
+  padding: 1.1em;
+  padding-left: 2.2em;
+  padding-right: 2.2em;
+  border-radius: 8px;
+  margin: 6%;
+}
+
+h1 {
+  background-size: cover;
+  background-position: center;
+  color: #25a2c3;
+  font-family: "Montserrat", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  text-align: center;
+  font-size: 1.7em;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+  padding-bottom: 0.5em;
+  padding-top: 1em;
+  margin-top: 1.8em;
+}
+
+.p1 {
+  color: #393d41;
+  text-align: center;
+  font-size: 1.3em;
+  line-height: 40px;
+  margin-left: 3em;
+  margin-right: 3em;
+}
+
+#article {
+  background-color: #e22d0e;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2em;
+  height: 65vh;
+  color: white;
+}
+
+#article h1 {
+  color: white;
+  margin-top: 6%;
+}
+
+#article p {
+color: white;
+  margin: auto;
+  margin-top: 6%;
+  font-style: italic;
+}
+
+#round-image {
+  border-radius: 50%;
+  width: 60%;
+  height: auto;
+  margin: 1.5em;
+}
+
+#image1 {
+  width: 450%;
+}
+
+#immagine1 {
+  border-radius: 50%;
+  width: 100%;
+  height: auto;
+}
+
+#cointainer-image-text {
+  margin: 2em;
+  margin-top: 10%;
+  border: solid #dee1e3;
+  border-radius: 4px;
+}
+
+#cointainer-image-text img {
+  border-radius: 0%;
+  width: 100%;
+  height: auto;
+}
+
+#cointainer-image-text h1 {
+  margin-top: 1.2em;
+font-size: 1.2rem;
+  padding-top: 0;
+}
+
+#cointainer-image-text p {
+  text-align: center;
+  font-size: 1.1em;
+  line-height: 20px;
+  padding-bottom: 40px;
+}
+
+footer {
+  width: 450px;
+  height: 400px;
+  background-color: #25a2c3;
+  color: #c8e7f0;
+  text-align: center;
+}
+
+footer h1 {
+  color: white;
+  padding-top: 15%;
+  font-size: 2.1em;
+}
+
+footer a {
+  color: #c8e7f0;
+}
+
+#info {
+  font-size: 1.2em;
+  line-height: 30px;
+  margin-left: 3em;
+  margin-right: 3em;
+}
+
+#line {
+  border-bottom: solid 1px;
+  border-color: #c8e7f0;
+  margin: 8%;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+#icon {
+  margin-right: 10px;
+}
